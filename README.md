@@ -41,6 +41,7 @@ SQL Questions:
  5. Ratings
  -Driver Ratings
  -Customer Ratings
+
  Answers:
  1. Ride Volume Over Time: A time-series chart showing the number of rides per day/week.
  2. Booking Status Breakdown: A pie or doughnut chart displaying the proportion of different
